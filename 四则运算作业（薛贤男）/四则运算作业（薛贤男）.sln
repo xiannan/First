@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "四则运算作业（薛贤男）", "四则运算作业（薛贤男）\四则运算作业（薛贤男）.vcxproj", "{5CF0E8A7-97FA-4BCC-BA9F-343E27C63543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CF0E8A7-97FA-4BCC-BA9F-343E27C63543}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CF0E8A7-97FA-4BCC-BA9F-343E27C63543}.Debug|Win32.Build.0 = Debug|Win32
+		{5CF0E8A7-97FA-4BCC-BA9F-343E27C63543}.Release|Win32.ActiveCfg = Release|Win32
+		{5CF0E8A7-97FA-4BCC-BA9F-343E27C63543}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

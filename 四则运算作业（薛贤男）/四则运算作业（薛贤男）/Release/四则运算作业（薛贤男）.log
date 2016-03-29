@@ -1,0 +1,22 @@
+﻿生成启动时间为 2016/3/6 星期日 15:15:52。
+     1>项目“E:\项目\新\四则运算作业（薛贤男）\四则运算作业（薛贤男）\四则运算作业（薛贤男）.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Release\四则运算作业（薛贤男）.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         e:\新建文件夹 (1)\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "四则运算作业.cpp"
+         四则运算作业.cpp
+       Link:
+         e:\新建文件夹 (1)\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\项目\新\四则运算作业（薛贤男）\Release\四则运算作业（薛贤男）.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\四则运算作业（薛贤男）.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\项目\新\四则运算作业（薛贤男）\Release\四则运算作业（薛贤男）.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\项目\新\四则运算作业（薛贤男）\Release\四则运算作业（薛贤男）.lib" /MACHINE:X86 "Release\四则运算作业.obj"
+         正在生成代码
+         已完成代码的生成
+         四则运算作业（薛贤男）.vcxproj -> E:\项目\新\四则运算作业（薛贤男）\Release\四则运算作业（薛贤男）.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\项目\新\四则运算作业（薛贤男）\Release\四则运算作业（薛贤男）.exe;#1" /manifest "Release\四则运算作业（薛贤男）.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在删除文件“Release\四则运算作业（薛贤男）.unsuccessfulbuild”。
+         正在对“Release\四则运算作业（薛贤男）.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\项目\新\四则运算作业（薛贤男）\四则运算作业（薛贤男）\四则运算作业（薛贤男）.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.74
